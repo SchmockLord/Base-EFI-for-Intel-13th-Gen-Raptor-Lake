@@ -202,9 +202,11 @@ If your CPU has one, you should disable it in BIOS.
 
 In this Base-EFI is a Kext-based USB-Mapping.
 
-Personally I don't use the Kext-based USB-configuration anymore. Instead, I use the USB-Port configuration via SSDT (SSDT-USB-Ports-Z590i-VisionD.aml).
+Personally I don't use the Kext-based USB-configuration anymore. Instead, I use the USB-Port configuration via SSDT (e.g. SSDT-USB-Ports-Z590i-VisionD.aml).
 
-In this repos folder "optional" you will find a sample SSDT for my Gigabyte Z590i Vision D that you can use for referrence. The SSDT-USB-Ports-Z590i-VisionD.aml has the same USB-port mapping as the Kext-based USBPorts_Z590i_VisionD.kext.
+In this repos folder "USB-Mapping via SSDT" you will find a sample SSDT for my Gigabyte Z590i Vision D that you can use for reference. The SSDT-USB-Ports-Z590i-VisionD.aml has the same USB-port mapping as the Kext-based USBPorts_Z590i-VisionD.kext.
+
+Use them as a reference.
 
 The benefit of the SSDT-based configuration is, that we don't need specific kexts for each SMBIOS (iMac20,2; iMacPro1,1 etc.) and it is the cleanest way of doing the USB-Port Mapping.
 
