@@ -3,7 +3,7 @@
 
 Currently this is a 1:1 replica of the Base EFI for 12th Gen Alder Lake, but I expect differences in the future.
 
-Hopefully the SSDT-ALT-Plug.aml works with 13th Gen Raptor Lake too. It would be nice if someone could try that and make a comment in the issues page.
+Hopefully the SSDT-ALT-Plug.aml (designed for 12th Gen Alder Lake) works with 13th Gen Raptor Lake too. It would be nice if someone could try that and make a comment in the issues page.
  
 Bootloader
 :----
