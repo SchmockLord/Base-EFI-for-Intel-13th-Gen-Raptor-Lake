@@ -36,7 +36,7 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Path</key>
-				<string>SSDT-PLUG-DRTNIA.aml</string>
+				<string>SSDT-PLUG-ALT.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
