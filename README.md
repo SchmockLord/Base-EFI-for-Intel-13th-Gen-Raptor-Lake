@@ -7,7 +7,7 @@ Hopefully the SSDT-ALT-Plug.aml (designed for 12th Gen Alder Lake) works with 13
  
 Bootloader
 :----
-OpenCore v0.8.5
+OpenCore v0.9.0
  
 # Reference Guide
 
